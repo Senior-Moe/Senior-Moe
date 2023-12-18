@@ -4,7 +4,7 @@
 - 📫 How to reach me ...
 <h3 align="center">A passionate frontend developer from Yemen</h3>
 
-<h3 align="left">Connect with me:m.kh.alnahdi@gmail.com</h3>
+<h3 align="left">Connect with me:  m.kh.alnahdi@gmail.com</h3>
 <p align="left">
 </p>
 
