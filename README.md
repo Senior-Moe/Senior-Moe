@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Mohammed-Alnahdi
+- 👋 Hi, I’m @Senior-Moe
 - 👀 I’m interested in Network, Server, Operating System, and Software Programming.
-- 🌱 I’m currently learning Haskel
+- 🌱 I’m currently learning all about computer sciance. 
 - 📫 How to reach me ...
 
 <h3 align="left">Connect with me:  m.kh.alnahdi@gmail.com</h3>
 <p align="left">
+  or from contact information under profile image.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
